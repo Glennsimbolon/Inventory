@@ -18,9 +18,12 @@ Aplikasi manajemen inventaris berbasis mobile menggunakan **Flutter** dan **Supa
 - **Supabase** - Backend (PostgreSQL, Auth, Storage, Realtime)
 - **Dart** - Bahasa Pemrograman
 
-
+Tampilan
 <img width="300" height="600" alt="WhatsApp Image 2026-06-22 at 19 44 33" src="https://github.com/user-attachments/assets/08d50edd-8848-458e-8787-e8a39bfa7bbe" />
 <img width="300" height="600" alt="WhatsApp Image 2026-06-22 at 19 44 33 (1)" src="https://github.com/user-attachments/assets/a99a47f7-498b-405a-8dba-c55bc07d135b" />
+<img width="300" height="600" alt="WhatsApp Image 2026-06-22 at 03 59 23" src="https://github.com/user-attachments/assets/93fe8760-965c-40e3-b384-7a6ff4b2b247" />
+<img width="300" height="600" alt="WhatsApp Image 2026-06-22 at 03 59 22" src="https://github.com/user-attachments/assets/274c9358-288e-4a3a-af57-b6bb669c6494" />
+<img width="714" height="1599" alt="WhatsApp Image 2026-06-22 at 04 59 05" src="https://github.com/user-attachments/assets/6e7429fa-aef9-4a96-9d51-9d6e9d32df4f" />
 
 
 ## 🚀 Cara Menjalankan
