@@ -19,7 +19,7 @@ Aplikasi manajemen inventaris berbasis mobile menggunakan **Flutter** dan **Supa
 - **Dart** - Bahasa Pemrograman
 
 
-<img width="714" height="1599" alt="WhatsApp Image 2026-06-22 at 19 44 33" src="https://github.com/user-attachments/assets/08d50edd-8848-458e-8787-e8a39bfa7bbe" />
+<img width="300" height="600" alt="WhatsApp Image 2026-06-22 at 19 44 33" src="https://github.com/user-attachments/assets/08d50edd-8848-458e-8787-e8a39bfa7bbe" />
 
 ## 🚀 Cara Menjalankan
 
